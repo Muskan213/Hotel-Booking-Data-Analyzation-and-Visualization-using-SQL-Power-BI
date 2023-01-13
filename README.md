@@ -1,1 +1,1 @@
-# Hotel-Booking-Data-Analyzation-and-Visualization-using-SQL-Power-BI
+In this project I have build a database to analyse the Hotel data.I developed SQL query and connected PowerBI to the database. Using PowerBI I made a dashboard to addressed three questions: 1.)Is hotel revenue growing by year? 2.)Should we increase the parking lot size? 3.)what trends can we see in the data?
